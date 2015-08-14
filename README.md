@@ -109,5 +109,5 @@ if not map then
     return
 end
 
-local decoded = cdata:decode(map.name, data))
+local decoded = cdata:decode(map.name, data)
 ```
